@@ -3,7 +3,7 @@
 [Houdini](http://www.sidefx.com/index.php) HDK SOP node which triangulates points using an Earcut library.
 
 ## Binaries, Houdini 16.0
-* [Windows, Houdini 16.0.557](https://github.com/ttvd/houdini-sop-triangulate-earcut/files/) 
+* [Windows, Houdini 16.0.557](https://github.com/ttvd/houdini-sop-triangulate-earcut/releases/download/1.0/SOP_TriangulateEarCut.16.0.557.Win64.rar) 
 
 ## Building
 

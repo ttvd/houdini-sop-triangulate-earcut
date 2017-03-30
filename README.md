@@ -1,6 +1,6 @@
 # houdini-sop-triangulate-earcut
 
-[Houdini](http://www.sidefx.com/index.php) HDK SOP node which triangulates points using a Mapbox Earcut library.
+[Houdini](http://www.sidefx.com/index.php) HDK SOP node which triangulates points using [Mapbox Earcut library](https://github.com/mapbox/earcut.hpp).
 
 ## More info
 * [Mapbox Earcut](https://github.com/mapbox/earcut.hpp)

@@ -4,7 +4,8 @@
 
 ## More info
 * [Mapbox Earcut](https://github.com/mapbox/earcut.hpp)
-* [FIST: Fast Industrial-Strength Triangulation of Polygons](http://www.cosy.sbg.ac.at/~held/projects/triang/triang.html) by Martin Held * [ [Triangulation by Ear Clipping](http://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf) by David Eberly.
+* [FIST: Fast Industrial-Strength Triangulation of Polygons](http://www.cosy.sbg.ac.at/~held/projects/triang/triang.html) by Martin Held
+* [ [Triangulation by Ear Clipping](http://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf) by David Eberly.
 
 ## Binaries, Houdini 16.0
 * [Windows, Houdini 16.0.557](https://github.com/ttvd/houdini-sop-triangulate-earcut/releases/download/1.0/SOP_TriangulateEarCut.16.0.557.Win64.rar) 
